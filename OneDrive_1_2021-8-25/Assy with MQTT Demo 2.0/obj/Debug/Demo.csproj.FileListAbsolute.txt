@@ -1,0 +1,74 @@
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\obj\Debug\Demo.frmMain.resources
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\bin\Debug\Demo.exe.config
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\bin\Debug\Demo.exe
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\bin\Debug\Demo.pdb
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\bin\Debug\M2Mqtt.Net.dll
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\bin\Debug\M2Mqtt.Net.pdb
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\obj\Debug\Demo.csproj.CopyComplete
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\obj\Debug\Demo.exe
+D:\Projects\BC_Systems\Non-Standard\NonStandardMiddleware\Demo\obj\Debug\Demo.pdb
+C:\Users\1114505\Downloads\Demo\bin\Debug\Demo.exe.config
+C:\Users\1114505\Downloads\Demo\bin\Debug\Demo.exe
+C:\Users\1114505\Downloads\Demo\bin\Debug\Demo.pdb
+C:\Users\1114505\Downloads\Demo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\1114505\Downloads\Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1114505\Downloads\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\1114505\Downloads\Demo\obj\Debug\Demo.frmMain.resources
+C:\Users\1114505\Downloads\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\1114505\Downloads\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\1114505\Downloads\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\1114505\Downloads\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\1114505\Downloads\Demo\obj\Debug\Demo.exe
+C:\Users\1114505\Downloads\Demo\obj\Debug\Demo.pdb
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\bin\Debug\Demo.exe.config
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\bin\Debug\Demo.exe
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\bin\Debug\Demo.pdb
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\bin\Debug\M2Mqtt.Net.pdb
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\obj\Debug\Demo.frmMain.resources
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\obj\Debug\Demo.csproj.CopyComplete
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\obj\Debug\Demo.exe
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Assy with MQTT Demo\obj\Debug\Demo.pdb
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\bin\Debug\Demo.exe.config
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\bin\Debug\Demo.exe
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\bin\Debug\Demo.pdb
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\bin\Debug\M2Mqtt.Net.pdb
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\obj\Debug\Demo.frmMain.resources
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\obj\Debug\Demo.csproj.CopyComplete
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\obj\Debug\Demo.exe
+D:\OneDrive - Jabil\99.项目归档\1.Assembly with MQTT broker\Demo\obj\Debug\Demo.pdb
+C:\Users\mqunfeng\Desktop\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\bin\Debug\Demo.exe.config
+C:\Users\mqunfeng\Desktop\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.exe
+C:\Users\mqunfeng\Desktop\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.pdb
+E:\2021\无锡\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\bin\Debug\Demo.exe.config
+E:\2021\无锡\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.exe
+E:\2021\无锡\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.pdb
+F:\2021\无锡\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\bin\Debug\Demo.exe.config
+F:\2021\无锡\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.exe
+F:\2021\无锡\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.pdb
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\bin\Debug\Demo.exe.config
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.exe
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.pdb
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\bin\Debug\Demo.exe
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\bin\Debug\Demo.pdb
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\bin\Debug\M2Mqtt.Net.pdb
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\bin\Debug\Newtonsoft.Json.xml
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.frmMain.resources
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.Properties.Resources.resources
+E:\OneDrive_1_2021-8-25\Assy with MQTT Demo 2.0\obj\Debug\Demo.csproj.GenerateResource.Cache
